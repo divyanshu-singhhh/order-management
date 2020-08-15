@@ -1,6 +1,6 @@
 Order Management
 
-app link : https://orderr-management.herokuapp.com/transactions.html
+app link : https://orderr-management.herokuapp.com
 
 1) Click on the above link to run the app or download the project to run it locally.
 2) Click on 'Login/signup' and create a account using signup form.
